@@ -1,0 +1,10 @@
+# ST4 m5b_agent_loop.py + ST3 KoELECTRA sentiment tool
+# CPU-only PyTorch wheels keep the Streamlit Cloud build smaller.
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+streamlit==1.59.2
+pandas==2.3.3
+numpy==2.4.6
+openai==2.32.0
+transformers==5.13.0
+torch==2.13.0
