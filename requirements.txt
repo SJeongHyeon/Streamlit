@@ -8,3 +8,6 @@ numpy==2.4.6
 openai==2.32.0
 transformers==5.13.0
 torch==2.13.0
+seaborn
+matplotlib
+scikit-learn
